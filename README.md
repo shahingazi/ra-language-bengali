@@ -3,14 +3,14 @@
 Bengali Translations  for React-Admin
 Bengali Translations  for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services.
 
-#Installation
+# Installation
 
 Work in progress
 
-#Usage
+# Usage
 
 Work in progress
 
-#License
+# License
 
 This translation is licensed under the MIT Licence.
